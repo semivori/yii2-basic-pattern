@@ -18,7 +18,7 @@ class JSAsset extends AssetBundle
     ];
 
     public $js = [
-        '/themes/bootstrap4/js/common.js',
+        'themes/bootstrap4/js/common.js',
     ];
 
     public $depends = [
